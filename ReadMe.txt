@@ -19,7 +19,3 @@ To run the test follow the instructions below:
 3. Go to src/test/java/com.selenium.brandmaker/emag/InitialEmagTest
 4. Right click -> Run
 
-If you have Maven installed can skip steps 3. and 4. and run the test using mvn command:
-5. Open Command prompt.
-6. Go to directory where the project is. 
-7. Execute the following command: mvn clean test
